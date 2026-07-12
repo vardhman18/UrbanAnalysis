@@ -259,7 +259,7 @@ The dashboard can reveal insights such as:
 
 ## Contributing
 
-We welcome contributions to improve the Urban Mobility Analysis Dashboard! Here's how you can help:
+We welcome contributions to improve the Urban Mobility Analytics & Transportation Insights Dashboard! Here's how you can help:
 
 ### **Ways to Contribute**
 
